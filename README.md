@@ -11,3 +11,5 @@
 3. 주소 및 업종 분류 : [contains_address_isin_restaurant.ipynb](https://github.com/hmii/map_scrapping_project/blob/master/contains_address_isin_restaurant.ipynb) 
     - 해당 주소가 아닌 장소 걸러내기, 음식점 아닌 곳 제외하기 
     - regex, contains, isin
+### EDA
+기술통계 및 분포 분석 : [EDA_nolimit.ipynb](https://github.com/hmii/map_scrapping_project/blob/master/EDA_nolimit.ipynb)
